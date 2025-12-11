@@ -52,6 +52,10 @@ Passionate Learner | Aspiring Developer | Python Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaal/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
 
+<a href="https://vinaalr.netlify.app/">
+  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
+</a>
+
 ---
 
 ### 📜 License
